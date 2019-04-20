@@ -1,2 +1,2 @@
 # k8-istio-hello-world
-Hello world for Docker, Kubernetes, istio... based on istio sample
+Quick start and Hello world for Docker, Kubernetes, istio... based on [istio sample](https://github.com/istio/istio/tree/master/samples/helloworld)
